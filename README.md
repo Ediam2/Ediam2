@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ediam2
+- 👋 Hi, I’m @ediamofficial
 - 👀 I’m interested in coding and anime :D
-- 🌱 I’m currently learning django, C#
+- 🌱 I’m currently learning django, C#, tkinter
 - 💞️ I’m looking to collaborate on, nothing, tbh. I like working alone
 - 📫 How to reach me 
 - Discord : Ediam#7828. (Just slide into my dms XD)
