@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning django, C#, tkinter
 - 💞️ I’m looking to collaborate on, nothing, tbh. I like working alone
 - 📫 How to reach me 
-- Discord : Ediam#7828. (Just slide into my dms XD)
+- Discord : Ediam#7828.
 
 
 <!---
